@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "jaro-winkler": "^0.2.8",
+    "jsdom": "^20.0.2",
+    "yt-scraper": "^2.2.0"
+  }
+}

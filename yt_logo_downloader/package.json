@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@gonetone/get-youtube-id-by-url": "^1.0.0",
+    "node-fetch2": "^1.6.3"
+  }
+}

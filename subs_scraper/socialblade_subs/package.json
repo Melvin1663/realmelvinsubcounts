@@ -1,0 +1,24 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sc08": "node \"./Socialblade (2008)/index.js\"",
+    "sc19": "node \"./Socialblade (2019)/index.js\"",
+    "sc19w": "node \"./Socialblade (2019) Weekly/index.js\"",
+    "sc13": "node \"./Socialblade (2013)/index.js\"",
+    "sc13c": "node \"./Socialblade (2013) Compare/index.js\""
+  },
+  "author": "Melvs",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "node-fetch2": "^1.6.3",
+    "numeral": "^2.0.6",
+    "request-promise": "^4.2.6",
+    "script-tags": "^0.1.3"
+  }
+}

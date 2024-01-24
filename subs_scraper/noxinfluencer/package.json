@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch2": "^1.6.3",
+    "yt-channel-info": "^3.0.4"
+  }
+}
