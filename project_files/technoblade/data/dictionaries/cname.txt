@@ -1,0 +1,4 @@
+1 = Technoblade
+2 = Technothepig
+3 = StudioLORE
+4 = Derp Squad
